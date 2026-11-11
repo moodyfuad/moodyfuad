@@ -176,9 +176,8 @@ Own mobile development, maintenance, and updates. Implement wallet transactions 
 
 <p align="center">
 <a href="https://wa.me/967739778333"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-277D61?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
-<a href="tel:+967739778333"><img alt="Call me" src="https://img.shields.io/badge/Call%20me-315A89?style=for-the-badge" /></a>
 <a href="mailto:moho.foho@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-576579?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/m7md-fuad"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-315A89?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 </p>
 
-<p align="center">📞 <a href="tel:+967739778333">+967 739 778 333</a> &nbsp; · &nbsp; 💬 <a href="https://wa.me/967739778333">Chat on WhatsApp</a><br />✉️ <a href="mailto:moho.foho@gmail.com">moho.foho@gmail.com</a></p>
+<p align="center">📞 <strong>+967 739 778 333</strong> &nbsp; · &nbsp; 💬 <a href="https://wa.me/967739778333">Chat on WhatsApp</a><br />✉️ <a href="mailto:moho.foho@gmail.com">moho.foho@gmail.com</a></p>
