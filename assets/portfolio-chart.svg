@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510">
+<rect width="1200" height="510" rx="20" fill="#0B1220"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="40" y="48" fill="#57E3CC" font-size="15" letter-spacing="3">PORTFOLIO AT A GLANCE</text>
+<text x="40" y="89" fill="#F0F6FC" font-size="28" font-weight="700">7 selected projects. A mobile-first foundation.</text>
+<text x="40" y="119" fill="#A7BED1" font-size="17">HIC · HIC Staff · Rawashn · College Unity · WiFi Chat · Guess Word · JobDone</text>
+<circle cx="175" cy="296" r="92" fill="none" stroke="#57E3CC" stroke-width="28" stroke-dasharray="243.73702068308083 334.3160275774411" stroke-dashoffset="0" transform="rotate(-90 175 296)"/>
+<circle cx="175" cy="296" r="92" fill="none" stroke="#64ADFF" stroke-width="28" stroke-dasharray="78.57900689436028 499.4740413661616" stroke-dashoffset="-247.73702068308083" transform="rotate(-90 175 296)"/>
+<circle cx="175" cy="296" r="92" fill="none" stroke="#B99AFF" stroke-width="28" stroke-dasharray="78.57900689436028 499.4740413661616" stroke-dashoffset="-330.3160275774411" transform="rotate(-90 175 296)"/>
+<circle cx="175" cy="296" r="92" fill="none" stroke="#FFCD82" stroke-width="28" stroke-dasharray="78.57900689436028 499.4740413661616" stroke-dashoffset="-412.8950344718014" transform="rotate(-90 175 296)"/>
+<circle cx="175" cy="296" r="92" fill="none" stroke="#FF8CA7" stroke-width="28" stroke-dasharray="78.57900689436028 499.4740413661616" stroke-dashoffset="-495.4740413661617" transform="rotate(-90 175 296)"/>
+<text x="175" y="294" text-anchor="middle" fill="#F0F6FC" font-size="49" font-weight="700">7</text>
+<text x="175" y="323" text-anchor="middle" fill="#A7BED1" font-size="17">PROJECTS</text>
+<rect x="319" y="197" width="10" height="10" rx="3" fill="#57E3CC"/>
+<text x="342" y="210" fill="#D4E2EF" font-size="20">Education</text>
+<text x="585" y="210" text-anchor="end" fill="#57E3CC" font-size="22" font-weight="700">3</text>
+<rect x="319" y="242" width="10" height="10" rx="3" fill="#64ADFF"/>
+<text x="342" y="255" fill="#D4E2EF" font-size="20">Financial services</text>
+<text x="585" y="255" text-anchor="end" fill="#64ADFF" font-size="22" font-weight="700">1</text>
+<rect x="319" y="287" width="10" height="10" rx="3" fill="#B99AFF"/>
+<text x="342" y="300" fill="#D4E2EF" font-size="20">Offline messaging</text>
+<text x="585" y="300" text-anchor="end" fill="#B99AFF" font-size="22" font-weight="700">1</text>
+<rect x="319" y="332" width="10" height="10" rx="3" fill="#FFCD82"/>
+<text x="342" y="345" fill="#D4E2EF" font-size="20">Games</text>
+<text x="585" y="345" text-anchor="end" fill="#FFCD82" font-size="22" font-weight="700">1</text>
+<rect x="319" y="377" width="10" height="10" rx="3" fill="#FF8CA7"/>
+<text x="342" y="390" fill="#D4E2EF" font-size="20">Freelance services</text>
+<text x="585" y="390" text-anchor="end" fill="#FF8CA7" font-size="22" font-weight="700">1</text>
+<path d="M633 172V440" stroke="#2B4056"/>
+<text x="677" y="220" fill="#F0F6FC" font-size="24" font-weight="700">Flutter / Dart</text>
+<text x="1148" y="220" text-anchor="end" fill="#57E3CC" font-size="21">6 / 7</text>
+<rect x="677" y="240" width="470" height="14" rx="7" fill="#23394F"/>
+<rect x="677" y="240" width="402.85714285714283" height="14" rx="7" fill="#57E3CC"/>
+<text x="677" y="284" fill="#A7BED1" font-size="17">Mobile applications</text>
+<text x="677" y="350" fill="#F0F6FC" font-size="24" font-weight="700">ASP.NET / C#</text>
+<text x="1148" y="350" text-anchor="end" fill="#64ADFF" font-size="21">3 / 7</text>
+<rect x="677" y="370" width="470" height="14" rx="7" fill="#23394F"/>
+<rect x="677" y="370" width="201.42857142857142" height="14" rx="7" fill="#64ADFF"/>
+<text x="677" y="414" fill="#A7BED1" font-size="17">Backend &amp; web projects</text>
+<text x="40" y="479" fill="#829BAF" font-size="16">Project counts from the selected portfolio. Technology categories overlap.</text>
+</g></svg>
