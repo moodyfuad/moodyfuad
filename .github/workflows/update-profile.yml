@@ -1,0 +1,52 @@
+name: Update profile activity
+
+on:
+  schedule:
+    # 06:17 Asia/Riyadh (03:17 UTC), away from the hourly traffic peak.
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-profile.yml'
+      - '.github/scripts/update_activity.py'
+      - 'README.md'
+
+# Limited to updating files in this public profile repository.
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh activity cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Verify contribution calculations
+        run: python3 .github/scripts/update_activity.py --self-test
+
+      - name: Fetch actual contribution data and render the card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/update_activity.py
+
+      - name: Publish refreshed activity
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/github-activity.svg README.md
+          if git diff --cached --quiet; then
+            echo 'Activity is already current.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh profile activity [skip ci]'
+          git push origin HEAD:main
