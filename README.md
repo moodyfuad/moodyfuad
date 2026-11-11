@@ -162,9 +162,9 @@ Own mobile development, maintenance, and updates. Implement wallet transactions 
 
 ## 📊 GitHub activity
 
-<img src="./assets/github-activity.svg" width="100%" alt="GitHub activity snapshot, 11 November 2026: 598 contributions in the displayed year, two-day current streak, and ten-day longest streak within the displayed year, with monthly contributions chart." />
+<img src="./assets/github-activity.svg" width="100%" alt="GitHub activity updated daily from actual account data: contributions, current streak, longest streak, and monthly chart." />
 
-<sub>Snapshot: **11 November 2026**, before this visual update. Streaks cover the displayed contribution calendar. The native GitHub contribution graph below continues to update.</sub>
+<sub>Updated daily by [GitHub Actions](https://github.com/moodyfuad/moodyfuad/actions/workflows/update-profile.yml) from GitHub's contribution calendar. The card shows its latest successful update time. Streaks cover the displayed year; today may be empty while yesterday's streak remains active.</sub>
 
 ---
 
