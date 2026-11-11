@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Mohammed Fuad Bamatraf | Flutter Mobile Developer</title>
+<desc id="desc">Mobile experiences, from API to app release. Flutter, Dart, and ASP.NET Core.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#132B3B"/></linearGradient><linearGradient id="accent"><stop stop-color="#52E0CD"/><stop offset="1" stop-color="#60A5FA"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#8DB4CB" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="310" rx="18" fill="url(#bg)"/><rect width="1200" height="310" rx="18" fill="url(#grid)"/>
+<rect x="48" y="48" width="40" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="48" y="87" fill="#6CE5D2" font-size="15" font-weight="600" letter-spacing="3">FLUTTER / MOBILE DEVELOPER</text>
+<text x="48" y="143" fill="#F1F5F9" font-size="40" font-weight="700">Mohammed Fuad Bamatraf</text>
+<text x="48" y="185" fill="#B9CDDD" font-size="21">Mobile experiences, from API to app release.</text>
+<text x="48" y="245" fill="#D6E4EE" font-size="16">Flutter + Dart</text><circle cx="183" cy="239" r="3" fill="#52E0CD"/><text x="200" y="245" fill="#D6E4EE" font-size="16">ASP.NET Core</text><circle cx="341" cy="239" r="3" fill="#52E0CD"/><text x="358" y="245" fill="#D6E4EE" font-size="16">Clean Architecture</text></g>
+<g fill="none" stroke-width="2"><circle cx="1024" cy="156" r="112" stroke="#52E0CD" stroke-opacity=".14"/><circle cx="1024" cy="156" r="87" stroke="#60A5FA" stroke-opacity=".18"/>
+<rect x="974" y="62" width="100" height="188" rx="18" fill="#0D1C2C" stroke="#6CE5D2"/><path d="M1008 76h32M1013 236h22" stroke="#7AA4BE" stroke-linecap="round"/>
+<rect x="989" y="102" width="70" height="48" rx="7" fill="#133B47" stroke="#254E5E"/>
+<path d="M1007 126l10 10 24-24" stroke="#6CE5D2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M992 171h58M992 185h42M992 199h50" stroke="#51738D" stroke-linecap="round"/>
+<path d="M915 114h39M1095 196h39" stroke="#60A5FA" stroke-opacity=".6" stroke-dasharray="4 5"/><circle cx="906" cy="114" r="5" fill="#60A5FA" stroke="none"/><circle cx="1143" cy="196" r="5" fill="#52E0CD" stroke="none"/></g>
+<rect y="304" width="1200" height="6" fill="url(#accent)"/>
+</svg>
